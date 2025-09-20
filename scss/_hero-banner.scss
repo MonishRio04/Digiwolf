@@ -1,5 +1,5 @@
 .hero-banner{
-    padding: 230px 0 150px;
+    padding: 150px 0 100px;
     
     &::before{
         position: absolute;
@@ -118,13 +118,12 @@
     }
     .hero-title{
         color: $secondary;
-        line-height: 85px;
+        line-height: 125px;
         .highlight-hero-title{
             transform: rotate(-6.17deg);
             background-color: $primary;
             color:$white;
             padding: 15px 0px;
-            width: 72%;
             display: flex;
             justify-content: center;
             margin: 0 auto 5px;
