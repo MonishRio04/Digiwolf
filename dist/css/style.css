@@ -11277,8 +11277,8 @@ textarea.form-control-lg {
 .footer .social-icons li {
   margin-right: 15px;
 }
-.footer .social-icons li a {
-  border: 1px solid #F35C29;
+/* .footer .social-icons li a {
+  
   height: 45px;
   width: 45px;
   font-size: 22px;
@@ -11289,13 +11289,13 @@ textarea.form-control-lg {
   padding-bottom: 0;
   position: relative;
   transition: 0.5s;
-}
+} */
 .footer .social-icons li a img + img {
   display: none;
 }
-.footer .social-icons li a:hover {
-  background-color: #F35C29;
-}
+/* /* .footer .social-icons li a:hover {
+  background-color: #F35C29; */
+ */
 .footer .social-icons li a:hover::after {
   position: absolute;
   content: "";
